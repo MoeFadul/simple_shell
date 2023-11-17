@@ -1,5 +1,5 @@
-#include "main.h"
-#include <stdio.h>
+#include "shell.h"
+
 /**
  * reset_to_98 - Function that takes a  pointer to an int as a parameter.
  * @n: type int pointer
